@@ -1,0 +1,15 @@
+C:\Users\anhxu\OneDrive\Desktop\BT\bin\Debug\net10.0\BT.exe
+C:\Users\anhxu\OneDrive\Desktop\BT\bin\Debug\net10.0\BT.deps.json
+C:\Users\anhxu\OneDrive\Desktop\BT\bin\Debug\net10.0\BT.runtimeconfig.json
+C:\Users\anhxu\OneDrive\Desktop\BT\bin\Debug\net10.0\BT.dll
+C:\Users\anhxu\OneDrive\Desktop\BT\bin\Debug\net10.0\BT.pdb
+C:\Users\anhxu\OneDrive\Desktop\BT\obj\Debug\net10.0\BT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anhxu\OneDrive\Desktop\BT\obj\Debug\net10.0\BT.AssemblyInfoInputs.cache
+C:\Users\anhxu\OneDrive\Desktop\BT\obj\Debug\net10.0\BT.AssemblyInfo.cs
+C:\Users\anhxu\OneDrive\Desktop\BT\obj\Debug\net10.0\BT.csproj.CoreCompileInputs.cache
+C:\Users\anhxu\OneDrive\Desktop\BT\obj\Debug\net10.0\BT.sourcelink.json
+C:\Users\anhxu\OneDrive\Desktop\BT\obj\Debug\net10.0\BT.dll
+C:\Users\anhxu\OneDrive\Desktop\BT\obj\Debug\net10.0\refint\BT.dll
+C:\Users\anhxu\OneDrive\Desktop\BT\obj\Debug\net10.0\BT.pdb
+C:\Users\anhxu\OneDrive\Desktop\BT\obj\Debug\net10.0\BT.genruntimeconfig.cache
+C:\Users\anhxu\OneDrive\Desktop\BT\obj\Debug\net10.0\ref\BT.dll

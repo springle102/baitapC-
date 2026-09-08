@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anhxu\\OneDrive\\Desktop\\BT\\BT\\BT.csproj": {}
+    "C:\\Users\\anhxu\\OneDrive\\Desktop\\BT\\BT.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anhxu\\OneDrive\\Desktop\\BT\\BT\\BT.csproj": {
+    "C:\\Users\\anhxu\\OneDrive\\Desktop\\BT\\BT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anhxu\\OneDrive\\Desktop\\BT\\BT\\BT.csproj",
+        "projectUniqueName": "C:\\Users\\anhxu\\OneDrive\\Desktop\\BT\\BT.csproj",
         "projectName": "BT",
-        "projectPath": "C:\\Users\\anhxu\\OneDrive\\Desktop\\BT\\BT\\BT.csproj",
+        "projectPath": "C:\\Users\\anhxu\\OneDrive\\Desktop\\BT\\BT.csproj",
         "packagesPath": "C:\\Users\\anhxu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anhxu\\OneDrive\\Desktop\\BT\\BT\\obj\\",
+        "outputPath": "C:\\Users\\anhxu\\OneDrive\\Desktop\\BT\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anhxu\\AppData\\Roaming\\NuGet\\NuGet.Config",
