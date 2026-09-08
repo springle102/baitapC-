@@ -5,7 +5,7 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>LapTrinhCSharp.Buoi1.HinhTron</StartupObject>
+    <StartupObject>LapTrinhCSharp.Buoi1.InNhan</StartupObject>
   </PropertyGroup>
 
 </Project>

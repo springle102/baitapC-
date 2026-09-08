@@ -4,6 +4,7 @@ namespace LapTrinhCSharp.Buoi1;
 
 public class HinhTron
 {
+	//khai báo hằng
     private const double Pi = 3.14;
 
     public static void Main(string[] args)
@@ -11,8 +12,8 @@ public class HinhTron
         Console.Write("Nhap ban kinh hinh tron: ");
         if (double.TryParse(Console.ReadLine(), out double r) && r > 0)
         {
-            double chuVi = 2 * Pi * r;
-            double dienTich = Pi * r * r;
+            double chuVi = 2 * Pi * r; //công thức tính chu vi hình tròn
+            double dienTich = Pi * r * r; //công thức tính diện tích hình tròn
 
             Console.WriteLine($"Ban kinh: {r}");
             Console.WriteLine($"Chu vi: {chuVi:F2}");
